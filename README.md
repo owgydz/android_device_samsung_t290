@@ -12,7 +12,7 @@ It is intended for use with **AOSP-based custom ROMs** (such as LineageOS) and w
 |-----|--------|
 | Device | Samsung Galaxy Tab A 8.0 (2019) |
 | Model | SM-T290 |
-| Codename | t290 |
+| Codename | t290/t2wifi |
 | SoC | Qualcomm Snapdragon 429 (SDM429) |
 | CPU | Quad-core ARM Cortex-A53 |
 | GPU | Adreno 504 |
@@ -31,22 +31,7 @@ All hardware values, partition sizes, and proprietary blobs were extracted direc
 - No placeholders or guessed values
 
 This ensures accuracy and reproducibility.
-
----
-
-## Status
-
-- [x] Firmware extraction
-- [x] Device tree skeleton
-- [x] Proprietary blob list (initial)
-- [ ] Vendor tree generation
-- [ ] Kernel source integration
-- [ ] Bootable recovery
-- [ ] ROM build
-
 This device tree is **work in progress** and **not official**.
-
----
 
 ## Disclaimer
 
@@ -64,4 +49,4 @@ This repository is provided for **development and educational purposes** only.
 - LineageOS Project  
 - Android Open Source Project (AOSP)  
 - Samsung (original firmware)
-
+- Qualcomm 
