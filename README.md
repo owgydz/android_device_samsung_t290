@@ -12,7 +12,7 @@ It is intended for use with **AOSP-based custom ROMs** (such as LineageOS) and w
 |-----|--------|
 | Device | Samsung Galaxy Tab A 8.0 (2019) |
 | Model | SM-T290 |
-| Codename | t290/t2wifi |
+| Codename | gtowifi |
 | SoC | Qualcomm Snapdragon 429 (SDM429) |
 | CPU | Quad-core ARM Cortex-A53 |
 | GPU | Adreno 504 |
