@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_t290.mk
+    $(LOCAL_DIR)/lineage_gtowifi.mk
